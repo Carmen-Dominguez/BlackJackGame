@@ -1,0 +1,32 @@
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.BlackJack.resources
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.Cache
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+C:\Documents and Settings\Carmen Dominguez\Desktop\Carmen\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Rules.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+D:\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+D:\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\ResolveAssemblyReference.cache
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.BlackJack.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Rules.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.Cache
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Start.resources
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb
+F:\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.exe
+F:\C# Folder\BlackJackGame\BlackJackGame\bin\Debug\BlackJackGame.pdb
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\ResolveAssemblyReference.cache
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.BlackJack.resources
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Properties.Resources.resources
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Rules.resources
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.Start.resources
+F:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.csproj.GenerateResource.Cache
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.About.resources
+C:\Documents and Settings\mariskeh.BFT\My Documents\Work\Projects\Carmen\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.exe
+C:\Documents and Settings\mariskeh.BFT\My Documents\Work\Projects\Carmen\BlackJackGame\BlackJackGame\obj\Debug\BlackJackGame.pdb

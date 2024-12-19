@@ -1,0 +1,11 @@
+D:\C# Folder\BlackJackGame\BlackJackGame\bin\Release\BlackJackGame.exe
+D:\C# Folder\BlackJackGame\BlackJackGame\bin\Release\BlackJackGame.pdb
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\ResolveAssemblyReference.cache
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.About.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.BlackJack.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.Properties.Resources.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.Rules.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.Start.resources
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.csproj.GenerateResource.Cache
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.exe
+D:\C# Folder\BlackJackGame\BlackJackGame\obj\Release\BlackJackGame.pdb
